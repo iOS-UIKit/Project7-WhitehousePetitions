@@ -15,6 +15,7 @@
 		5C1932EB29E89386009AB3E2 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5C1932E929E89386009AB3E2 /* LaunchScreen.storyboard */; };
 		5C1932F329E8B447009AB3E2 /* Petition.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5C1932F229E8B447009AB3E2 /* Petition.swift */; };
 		5C1932F529E8B4F9009AB3E2 /* Petitions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5C1932F429E8B4F9009AB3E2 /* Petitions.swift */; };
+		5C1932F729E8B87A009AB3E2 /* DetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5C1932F629E8B87A009AB3E2 /* DetailViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +29,7 @@
 		5C1932EC29E89386009AB3E2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		5C1932F229E8B447009AB3E2 /* Petition.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Petition.swift; sourceTree = "<group>"; };
 		5C1932F429E8B4F9009AB3E2 /* Petitions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Petitions.swift; sourceTree = "<group>"; };
+		5C1932F629E8B87A009AB3E2 /* DetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				5C1932DE29E89383009AB3E2 /* AppDelegate.swift */,
 				5C1932E029E89383009AB3E2 /* SceneDelegate.swift */,
 				5C1932E229E89383009AB3E2 /* ViewController.swift */,
+				5C1932F629E8B87A009AB3E2 /* DetailViewController.swift */,
 				5C1932F229E8B447009AB3E2 /* Petition.swift */,
 				5C1932F429E8B4F9009AB3E2 /* Petitions.swift */,
 				5C1932E429E89383009AB3E2 /* Main.storyboard */,
@@ -147,6 +150,7 @@
 				5C1932E329E89383009AB3E2 /* ViewController.swift in Sources */,
 				5C1932F329E8B447009AB3E2 /* Petition.swift in Sources */,
 				5C1932DF29E89383009AB3E2 /* AppDelegate.swift in Sources */,
+				5C1932F729E8B87A009AB3E2 /* DetailViewController.swift in Sources */,
 				5C1932E129E89383009AB3E2 /* SceneDelegate.swift in Sources */,
 				5C1932F529E8B4F9009AB3E2 /* Petitions.swift in Sources */,
 			);
